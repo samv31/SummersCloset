@@ -33,7 +33,7 @@ body .navbar-light.displayMob {
 }
 
 body .navbar-light .navbar-toggler {
-  color: #fff;
+  color: #000;
   font-size: 25px;
   outline: none;
   border: none;
@@ -1396,9 +1396,9 @@ body footer .bottomFooter .rightBox ul li a {
     max-height: 60px;
   }
   body footer .topFooter .rightBox ul li a {
-    color: #fff;
+    color: #000;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 16px;
     padding: 0 0 0 20px;
   }
   body footer .bottomFooter {
@@ -1409,7 +1409,7 @@ body footer .bottomFooter .rightBox ul li a {
     font-size: 16px;
   }
   body footer .bottomFooter .rightBox ul li a {
-    color: #fff;
+    color: #000;
     text-decoration: none;
     font-size: 18px;
     padding: 0 0 0 20px;
