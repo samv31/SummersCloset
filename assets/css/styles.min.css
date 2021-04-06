@@ -30,7 +30,7 @@ body .navbar-light {
 
 body .navbar-light.displayMob {
   display: none;
-  width:375px;
+  width:400px;
 }
 
 body .navbar-light .navbar-toggler {
